@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dmntdb
-- I’m interested in software developemnt
+- I’m interested in software development
 
