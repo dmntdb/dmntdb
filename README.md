@@ -1,3 +1,3 @@
 - Hi, I’m @dmntdb
-- Free Time database administration
+- Free Time databases administration
 
